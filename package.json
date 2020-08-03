@@ -1,0 +1,43 @@
+{
+  "_from": "node-gmo@1.0.1",
+  "_id": "node-gmo@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-GAtHr2HtlMqECukW/U5D1p41cg4=",
+  "_location": "/node-gmo",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "node-gmo@1.0.1",
+    "name": "node-gmo",
+    "escapedName": "node-gmo",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-gmo/-/node-gmo-1.0.1.tgz",
+  "_shasum": "180b47af61ed94ca840ae916fd4e43d69e35720e",
+  "_spec": "node-gmo@1.0.1",
+  "_where": "C:\\Users\\gmgm\\Documents\\playground\\nodejs\\sample-market-making-bot-master",
+  "author": {
+    "name": "yorshka"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "latest",
+    "request": "latest",
+    "request-promise": "latest"
+  },
+  "deprecated": false,
+  "description": "gmo node.js library",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "node-gmo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
