@@ -36,3 +36,8 @@ api.getTicker("BTC_JPY ").then(function(res) {
 // api2.cancelOrders("BTC_JPY ", [105724841, 105724810]).then(function(res) {
 //   console.log(res);
 // });
+
+api2.getWsAuth().then(function (res)
+{
+  console.log(res);
+});
